@@ -29,11 +29,7 @@ This project is a Python-based tool that screens and calculates equal-weighted a
 
 ## Usage
 
-Run the script to calculate equal-weighted allocations:
-
-```bash
-python screener.py
-```
+Run the jupyter notebook for walking through the project
 
 ## License
 
